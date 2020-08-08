@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Ficha1
+comment1.params=graus
+comment1.target=double\ celsiusParaFaranheit(double)
+comment2.params=a\ b
+comment2.target=int\ maximoNumeros(int,\ int)
+comment3.params=nome\ saldo
+comment3.target=java.lang.String\ criaDescricaoConta(java.lang.String,\ double)
+comment4.params=valor\ taxaConversao
+comment4.target=double\ eurosParaLibras(double,\ double)
+numComments=5
